@@ -10,6 +10,7 @@ Welcome to the repository for my very first custom PCB design, created using KiC
 - **Design Tool:** [KiCad EDA](https://www.kicad.org/)
 - **Status:** Designed & Fabricated 🟢
 - **Description:** A beginner-friendly PCB design developed to learn board layout, routing, ground planes, and preparing production output files (Gerbers).
+<img width="1326" height="576" alt="image" src="https://github.com/user-attachments/assets/508df315-2e35-4b01-ac6b-019a9e5153b0" />
 
 ---
 
